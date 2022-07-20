@@ -19,7 +19,7 @@
 
 ---
 
-### 📊 Stats
+### 📊 Stats  &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=muniratashrifwala.muniratashrifwala)
 
 <img src="https://github-readme-stats.vercel.app/api?username=muniratashrifwala&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true" alt="munira's github stats" width="48%" align="right" >
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=muniratashrifwala&theme=tokyonight&hide_border=true" alt="munira's github streak" width="48%" >
