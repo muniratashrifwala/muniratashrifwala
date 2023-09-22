@@ -1,13 +1,13 @@
 
 
 <h1 align="center">Hello, I'm Munira <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"></h1>
-<h3 align="center">🌐 Full Stack Developer ✍ </h3>
+<h3 align="center">🌐 Full Stack Developer / AI Developer✍ </h3>
 
 - 🌱 I’m currently learning **DSA**
 
 - 👨‍💻 All of my projects are available [here](https://muniratashrifwala.github.io/Profile/)
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Artificial Intelligence**
 
 - 📫 How to reach me **https://muniratashrifwala.github.io/Profile/**
 
